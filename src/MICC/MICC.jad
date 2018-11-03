@@ -1,0 +1,8 @@
+MIDlet-1: MICC, MICC.png, MICClet
+MIDlet-Jar-Size: 100
+MIDlet-Jar-URL: MICC.jar
+MIDlet-Name: MICC
+MIDlet-Vendor: Jan Miderbäck
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
